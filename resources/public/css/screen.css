@@ -8,6 +8,7 @@ body {
     margin: 0 auto;
 }
 
+.navbar {clear: both}
 .messages {
     background: white;
     width: 520px;
